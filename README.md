@@ -7,7 +7,7 @@ This repository contains all scripts required to reproduce the figures and table
 
 ##Code info:
 
-* **FigX**: the script generates Figure X ($X\in{1,2,3,4}$) of the work [Solving Generalized Lyapunov Equations with guarantees: application to the Reduction of Switched Linear Systems][arxiv-url].
+* **FigX**: the script generates Figure X ($X\in{1,2,3,4}$) of the work [Balancing-based model reduction for switched descriptor systems][arxiv-url].
 
 Functions:
 
